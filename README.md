@@ -1,5 +1,3 @@
-Here's the README in proper markdown format:
-
 # Resume Work Experience Extractor 🚀
 
 Automatically extract work experience details from PDF resumes using OpenAI's GPT API. Perfect for HR teams, recruiters, or anyone who needs to process resume information quickly and accurately.
@@ -16,7 +14,7 @@ Automatically extract work experience details from PDF resumes using OpenAI's GP
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:manonja/resume-parser-with-llm
     cd wwr-resume-autofill
     ```
 

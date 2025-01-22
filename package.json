@@ -1,7 +1,7 @@
 {
   "name": "wwr-resume-autofill",
   "version": "1.0.0",
-  "description": "Resume work experience analyzer using OpenRouter AI",
+  "description": "Resume work experience analyzer using Open AI",
   "main": "dist/app.js",
   "scripts": {
     "build": "tsc",
@@ -20,8 +20,6 @@
     "@typescript-eslint/eslint-plugin": "^8.21.0",
     "@typescript-eslint/parser": "^8.21.0",
     "eslint": "^9.18.0",
-    "husky": "^8.0.0",
-    "jest": "^29.7.0",
     "lint-staged": "^15.4.1",
     "prettier": "^3.4.2",
     "ts-node": "^10.9.2",
